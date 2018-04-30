@@ -22,3 +22,6 @@ udo add-apt-repository \
 
 # Update the package index;
 sudo apt update
+
+# Install Docker;
+sudo apt install -y docker-ce
