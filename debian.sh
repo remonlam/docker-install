@@ -25,3 +25,6 @@ sudo apt update
 
 # Install Docker;
 sudo apt install -y docker-ce
+
+# Show Docker version;
+docker version
